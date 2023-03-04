@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #E25681;
+    opacity: 0.9;
+    background-image: radial-gradient( ellipse farthest-corner at 31px 31px , #D83A34, #D83A34 50%, #E25681 50%);
+    background-size: 31px 31px;
+padding: 2rem;
+}
+
+.navPages{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+
+}
+
+.page{
+    float: right;
+    padding: 10px;
+    font-weight: bold;
+    border: solid;
+    border-radius: 5px;
+    margin: 3px;
+    cursor:pointer;
+}
+
+
+.page:hover{
+ background-color: white;
+}
