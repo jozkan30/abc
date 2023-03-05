@@ -11,7 +11,6 @@ export default function ProjectsCard(props) {
       {props.desc}
       </p>
     </div>
-    
   </div>
   );
 }
