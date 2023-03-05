@@ -3,7 +3,7 @@
     opacity: 0.9;
     background-image: radial-gradient( ellipse farthest-corner at 31px 31px , #D83A34, #D83A34 50%, #E25681 50%);
     background-size: 31px 31px;
-padding: 2rem;
+    padding: 2rem;
 }
 
 .navPages{
