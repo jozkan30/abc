@@ -10,6 +10,9 @@ export default function ProjectsCard(props) {
       <p>
       {props.desc}
       </p>
+      <p className="links">
+      <a href={props.codeUrl} target="_blank" rel="noreferrer" className="code">  View Code </a>
+      </p>
     </div>
   </div>
   );

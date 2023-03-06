@@ -4,6 +4,7 @@
     background-image: radial-gradient( ellipse farthest-corner at 31px 31px , #D83A34, #D83A34 50%, #E25681 50%);
     background-size: 31px 31px;
     padding: 2rem;
+    
 }
 
 .navPages{
@@ -22,9 +23,10 @@
     border-radius: 5px;
     margin: 3px;
     cursor:pointer;
+    background-color: white;
 }
 
 
 .page:hover{
- background-color: white;
+ background-color: rgb(181, 145, 145);
 }
