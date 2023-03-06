@@ -33,7 +33,7 @@ export default function Home() {
           proImg={ReadMe}
           title={"ReadMe"}
           desc={
-            "A full CRUD social media reddit clone using React.js Django, and PostgresSQL."
+            "A full CRUD clone using React.js Django, and PostgresSQL."
           }
           codeUrl={"https://github.com/jozkan30/Final-Project"}
         />

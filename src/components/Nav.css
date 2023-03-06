@@ -35,10 +35,3 @@ a{
  background-color: rgb(181, 145, 145);
 }
 
-@media only screen and (min-width: 667px) {
-    .navbar{
-        background-color: white;
-    }
-    
-  }
-  

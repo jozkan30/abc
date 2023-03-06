@@ -1,3 +1,10 @@
 .about{
-    display: flex;
+width: 75%;
+}
+
+@media (max-width: 600px) {
+    .about{
+        text-align: center;
+        width: 100%;
+    }
 }
