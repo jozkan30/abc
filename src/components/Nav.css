@@ -14,6 +14,10 @@
     list-style-type: none;
 
 }
+a{
+    text-decoration: none;
+    color: black;
+}
 
 .page{
     float: right;
@@ -24,9 +28,17 @@
     margin: 3px;
     cursor:pointer;
     background-color: white;
+    
 }
-
 
 .page:hover{
  background-color: rgb(181, 145, 145);
 }
+
+@media only screen and (min-width: 667px) {
+    .navbar{
+        background-color: white;
+    }
+    
+  }
+  
