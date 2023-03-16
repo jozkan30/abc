@@ -1,8 +1,8 @@
 .navbar{
-    background-color: #E25681;
-    opacity: 0.9;
-    background-image: radial-gradient( ellipse farthest-corner at 31px 31px , #D83A34, #D83A34 50%, #E25681 50%);
-    background-size: 31px 31px;
+    background-color: #000000;
+opacity: 0.8;
+background-image: radial-gradient( ellipse farthest-corner at 40px 40px , #151516, #151516 50%, #000000 50%);
+background-size: 40px 40px;
     padding: 2rem;
     
 }
